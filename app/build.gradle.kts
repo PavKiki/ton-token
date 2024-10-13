@@ -7,12 +7,11 @@ repositories {
 }
 
 dependencies {
-    testImplementation(libs.junit.jupiter)
-
-    testRuntimeOnly("org.junit.platform:junit-platform-launcher")
-
     implementation(libs.guava)
-    implementation("io.github.neodix42:smartcontract:0.7.0")
+    implementation(libs.ton4j)
+
+    testImplementation(libs.junit.jupiter)
+    testRuntimeOnly("org.junit.platform:junit-platform-launcher")
 }
 
 java {
