@@ -2,10 +2,10 @@
 .gradle/
 .idea/
 .settings/
-bin/
 build/
 .classpath
 .project
 .gitattributes
 gradlew
 gradlew.bat
+app/bin/
