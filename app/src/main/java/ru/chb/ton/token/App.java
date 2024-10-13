@@ -1,4 +1,4 @@
-package org.example;
+package ru.chb.ton.token;
 
 public class App {
 

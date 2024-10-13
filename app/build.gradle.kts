@@ -22,7 +22,7 @@ java {
 }
 
 application {
-    mainClass = "org.example.App"
+    mainClass = "ru.chb.ton.token.App"
 }
 
 tasks.named<Test>("test") {
