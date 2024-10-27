@@ -13,6 +13,14 @@ dependencies {
     testImplementation(libs.junit.jupiter)
     testRuntimeOnly("org.junit.platform:junit-platform-launcher")
 }
+//
+//sourceSets {
+//    main {
+//        resources {
+//            srcDirs("src/main/resources")
+//        }
+//    }
+//}
 
 java {
     toolchain {
