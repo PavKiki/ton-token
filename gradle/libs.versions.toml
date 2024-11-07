@@ -9,4 +9,4 @@ ton4j = "0.7.1"
 [libraries]
 guava = { module = "com.google.guava:guava", version.ref = "guava" }
 junit-jupiter = { module = "org.junit.jupiter:junit-jupiter", version.ref = "junit-jupiter" }
-ton4j = { module = "io.github.neodix42:smartcontract", version.ref = "ton4j" }
+ton4j = { module = "com.github.neodiX42.ton4j:tonlib", version.ref = "ton4j" }

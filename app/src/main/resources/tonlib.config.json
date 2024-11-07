@@ -4,11 +4,7 @@
     {
       "ip": 822907680,
       "port": 27842,
-      "provided":"Beavis",
-      "id": {
-        "@type": "pub.ed25519",
-        "key": "sU7QavX2F964iI9oToP9gffQpCQIoOLppeqL/pdPvpM="
-      }
+      "key": "sU7QavX2F964iI9oToP9gffQpCQIoOLppeqL/pdPvpM="
     }
   ],
   "blockchain_name": "testnet",
